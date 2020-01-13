@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Reports and Dashboards2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.robotframework.ide.eclipse.main.plugin.robotLibrariesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.robotframework.ide.eclipse.main.plugin.robotNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libspecs/ExcelLibrary.py</name>
+			<type>1</type>
+			<location>C:/Python27/Lib/site-packages/ExcelLibrary/__init__.py</location>
+		</link>
+		<link>
+			<name>libspecs/args_19f3de81.arg</name>
+			<type>1</type>
+			<location>C:/Users/VENKAT~1/AppData/Local/Temp/RobotTempDir6781694651331528583/args_19f3de81.arg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
